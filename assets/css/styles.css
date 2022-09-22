@@ -488,9 +488,6 @@ img {
 
 /*==================== SKILLS ====================*/
 
-.gridSkill {
-  display: block;
-}
 .skills__container {
   row-gap: 0;
 }
@@ -561,11 +558,11 @@ img {
 }
 
 .skills__css {
-  width: 80%;
+  width: 85%;
 }
 
 .skills__js {
-  width: 85%;
+  width: 75%;
 }
 
 .skills__react {
@@ -577,27 +574,27 @@ img {
 }
 
 .skills__nodejs {
-  width: 80%;
+  width: 50%;
 }
 
 .skills__firebase {
-  width: 40%;
+  width: 80%;
 }
 
-.skills__java {
+.skills__python {
   width: 90%;
 }
 
 .skills__xd {
-  width: 75%;
+  width: 80%;
 }
 
 .skills__sketch {
-  width: 50%;
+  width: 95%;
 }
 
 .skills__photoshop {
-  width: 65%;
+  width: 60%;
 }
 
 .skills__close .skills__list {
@@ -618,7 +615,7 @@ img {
 /* new skill section */
 
 /*=============== SKILLS ===============*/
-.skills__container {
+/* .skills__container {
   row-gap: 2rem;
   padding-top: 1rem;
 }
@@ -667,7 +664,7 @@ img {
 
 .skills__level {
   font-size: var(--tiny-font-size);
-}
+} */
 
 /*==================== QUALIFICATION ====================*/
 
@@ -1192,6 +1189,9 @@ img {
   .testimonial__description {
     text-align: center;
   }
+  .calendar{
+    width: 90%;
+  }
 }
 
 /* For medium devices */
@@ -1222,6 +1222,9 @@ img {
     display: grid;
     grid-template-columns: .6fr;
     justify-content: center;
+  }
+  .calendar{
+    width: 90%;
   }
 }
 
@@ -1370,6 +1373,7 @@ img {
   .footer__copy {
     margin-top: 4.5rem;
   }
+  
 }
 
 /* For large devices */
@@ -1413,4 +1417,18 @@ img {
   .contact__inputs {
     grid-template-columns: repeat(2, 1fr);
   }
+  .calendar{
+    width: 90%;
+  }
 }
+
+
+/* git calendar */
+.calendar{
+  width: 70%;
+  margin-top: 40px;
+  background: #161627;
+  padding: 20px 20px;
+  color: #fff;
+}
+
