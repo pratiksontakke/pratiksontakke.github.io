@@ -58,9 +58,15 @@ On frontend terminal perform:
 
 
 #### Website Presentation :
-![rentomojo-webite](./images/readme/1.png)
+![pratiksontakke.com](./assets/readme_img/01.png)
 
-![rentomojo-webite](./images/readme/2.png)
+![pratiksontakke.com](./assets/readme_img/02.png)
+
+![pratiksontakke.com](./assets/readme_img/03.png)
+
+![pratiksontakke.com](./assets/readme_img/04.png)
+
+![pratiksontakke.com](./assets/readme_img/05.png)
 
 ## Thank you note
 Thank you all who is giving precious time to visit our little creative project which is made with lot of efforts.
