@@ -58,15 +58,15 @@ On frontend terminal perform:
 
 
 #### Website Presentation :
-![pratiksontakke.com](./assets/readme_img/01.png)
+![pratiksontakke.com](./assets/readme_img/01.jpg)
 
-![pratiksontakke.com](./assets/readme_img/02.png)
+![pratiksontakke.com](./assets/readme_img/02.jpg)
 
-![pratiksontakke.com](./assets/readme_img/03.png)
+![pratiksontakke.com](./assets/readme_img/03.jpg)
 
-![pratiksontakke.com](./assets/readme_img/04.png)
+![pratiksontakke.com](./assets/readme_img/04.jpg)
 
-![pratiksontakke.com](./assets/readme_img/05.png)
+![pratiksontakke.com](./assets/readme_img/05.jpg)
 
 ## Thank you note
 Thank you all who is giving precious time to visit our little creative project which is made with lot of efforts.
