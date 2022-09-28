@@ -70,3 +70,5 @@ On frontend terminal perform:
 
 ## Thank you note
 Thank you all who is giving precious time to visit our little creative project which is made with lot of efforts.
+
+_<p align="center"><sub>- Designed by <a href="https://github.com/pratiksontakke">Pratik Sontakke</a> -</sub></p>_
