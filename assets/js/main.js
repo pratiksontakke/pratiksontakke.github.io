@@ -211,3 +211,9 @@ themeButton.addEventListener('click', () => {
     localStorage.setItem('selected-theme', getCurrentTheme())
     localStorage.setItem('selected-icon', getCurrentIcon())
 })
+
+//open in a new tab
+function downloadResume() {
+        url = "https://drive.google.com/file/d/15EdL5eSYM9F-koF2hi8VYJlaqQq_JIpc/view?usp=share_link"
+        window.open(url);
+}
